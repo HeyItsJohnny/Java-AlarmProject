@@ -1,0 +1,13 @@
+Kitchen,10,15,Fire Detector,Motion Detector
+bathroom 1,5,5,fire detector,BLANK
+bathroom 2,5,5,fire detector,BLANK
+Master Bedroom,15,20,Fire Detector,Motion Detector
+Extra Bedroom 1,10,8,Fire Detector,Motion Detector
+Extra Bedroom 2,10,8,Fire Detector,Motion Detector
+Living Room,20,20,Fire Detector,Motion Detector
+Office,12,15,Motion Detector,BLANK
+Game Room,25,25,Motion Detector,Fire Detector
+Guest Bedroom,10,8,Fire Detector,Motion Detector
+Garage,15,10,Motion Detector,BLANK
+Nook,7,7,Motion Detector,BLANK
+Master Bathroom,6,6,Fire Detector,
